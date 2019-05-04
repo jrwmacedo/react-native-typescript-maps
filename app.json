@@ -1,0 +1,10 @@
+{
+  "name": "main",
+  "displayName": "MapBootstrap",
+  "expo": {
+    "sdkVersion": "31.0.0",
+    "slug": "MapBootstrap",
+    "name": "MapBootstrap",
+    "entryPoint":"build/src/index.js"
+  }
+}
